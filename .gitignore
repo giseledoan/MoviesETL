@@ -1,3 +1,5 @@
+# add config.py which contains Postgree password
+config.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
